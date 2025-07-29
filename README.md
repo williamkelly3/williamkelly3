@@ -23,7 +23,6 @@ These repos reflect my earlier experience as a software engineer, including:
 - Full-stack development
 - Scripting and automation
 - Network programming
-- Capstone projects and system design
 
 Each repo includes a clear README with:
 - ✅ Project goals
